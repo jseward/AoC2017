@@ -6,7 +6,10 @@ namespace AoC2017
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Day01.Run();
+            Day02.Run();
+
+            Console.ReadKey();
         }
     }
 }
